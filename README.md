@@ -1,6 +1,9 @@
-### Hi, I'm Prajwal 👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajwal-kb&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://github.com/prajwal-kb)
+![text] (Hi 👋, I'm Prajwal) #center
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prajwal-kb&theme=gruvbox_duo&hide_border=true&fire=2700DD&ring=2095DD&dates=A0BADD&currStreakNum=A0BADD&currStreakLabel=627FDD&sideNums=A0BADD&sideLabels=627FDD)](https://git.io/streak-stats)
+
 <!--
 **prajwal-kb/prajwal-kb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
