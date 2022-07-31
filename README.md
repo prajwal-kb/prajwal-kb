@@ -13,9 +13,11 @@
 
 
 
-## 📊 My Github Stats
+## 📊 My Github 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prajwal-kb&theme=gruvbox_duo&hide_border=true&fire=2700DD&ring=2095DD&dates=CED1DD&currStreakLabel=3885DD&currStreakNum=CED1DD&sideNums=CED1DD&sideLabels=3885DD&border=DD2727)](https://git.io/streak-stats)
+
+[![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajwal-kb)](https://github.com/prajwal-kb/github-readme-stats)
 
 
 ## Connect with me:
