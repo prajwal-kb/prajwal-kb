@@ -1,5 +1,6 @@
-### Hi, I'm Prajwal KB 👋
+### Hi, I'm Prajwal 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajwal-kb&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://github.com/prajwal-kb/github-readme-streak-stats)
 <!--
 **prajwal-kb/prajwal-kb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
