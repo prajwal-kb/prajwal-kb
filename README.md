@@ -21,8 +21,8 @@
 ## Connect with me:
 
 <p align="left">
-<a href = "https://www.linkedin.com/in/prajwal-kb-12485a228/"><img src="https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png"/></a>
-<a href = ""><img src = ""></a>
+<a href = "https://www.linkedin.com/in/prajwal-kb-12485a228/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = ""><img src = "https://img.icons8.com/fluent/48/000000/github.png"></a>
 
 </p>
 
