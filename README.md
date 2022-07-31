@@ -9,9 +9,25 @@
 - 📫 How to reach me: kbprajwal8@gmail.com
 - 😄 Pronouns: He/Him
 
+## 💻 Languages 
+
+
+
 ## 📊 My Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prajwal-kb&theme=gruvbox_duo&hide_border=true&fire=2700DD&ring=2095DD&dates=CED1DD&currStreakLabel=3885DD&currStreakNum=CED1DD&sideNums=CED1DD&sideLabels=3885DD&border=DD2727)](https://git.io/streak-stats)
+
+
+## Connect with me:
+
+<p align="left">
+<a href = "https://www.linkedin.com/in/prajwal-kb-12485a228/"><img src="https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png"/></a>
+<a href = ""><img src = ""></a>
+
+</p>
+
+
+
 
 <!--
 **prajwal-kb/prajwal-kb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
