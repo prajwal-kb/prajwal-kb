@@ -10,16 +10,18 @@
 - 😄 Pronouns: He/Him
 
 ## 💻 Languages 
-- C
-- C++
-- JAVA
-- PYTHON
-- HTML , CSS
-- JavaScript
-- MySQL
+<p align="left"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/>           </a> 
+    <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+</p>
 
 
-## 📊 My Github 
+## 📊 My Github Stats and Streaks
 <p align ="center">
     <img src = "https://github-readme-streak-stats.herokuapp.com?user=prajwal-kb&theme=gruvbox_duo&hide_border=false&fire=2700DD&ring=2095DD&dates=CED1DD&currStreakLabel=3885DD&currStreakNum=CED1DD&sideNums=CED1DD&sideLabels=3885DD" alt = "Prajwal's git streak"/>
 </p>
@@ -29,18 +31,16 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=prajwal-kb&show_icons=true&hide_border=false&bg_color=0D1117&title_color=3885DD&text_color=CED1DD&icon_color=2095DD" alt = "Prajwal's git stats"/>
 </p>
 <p align = "right">
-<img alt="Prajwal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-kb&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" />
+<img alt="Prajwal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-kb&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117&exclude_repo=Movie-club,learning-python" />
  </p>
-
-  
-  
+    
+ 
   
 ## Connect with me:
 
 <p align="left">
 <a href = "https://www.linkedin.com/in/prajwal-kb-12485a228/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = ""><img src = "https://img.icons8.com/fluent/48/000000/github.png"></a>
-<a herf = ""><img src = "https://img.icons8.com/fluent/48/000000/gmail.png"></a>
+<a herf = "kbprajwal8@gmail.com"><img src = "https://img.icons8.com/fluent/48/000000/gmail.png"></a>
 </p>
 
   
