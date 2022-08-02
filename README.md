@@ -4,10 +4,9 @@
 <h3 align = "center"> 
 
 ## 🙋‍♂️ About Me 
-- 🔭 I’m currently working on **Basic Linux**
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🔭 I’m currently working on **Linux**
+- 🌱 I’m currently **Amateur**
 - 📫 How to reach me: kbprajwal8@gmail.com
-- 😄 Pronouns: He/Him
 
 ## 💻 Languages 
 <p align="left">
