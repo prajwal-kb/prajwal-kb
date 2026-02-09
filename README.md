@@ -4,9 +4,10 @@
 <h3 align = "center"> 
 
 ## 🙋‍♂️ About Me 
-- 🔭 I’m currently working on **Linux**
+- 👨‍💻 I'm Good in **Programming(Python, Java), DSA, Git, Machine Learning**
+- 🔭 I’m currently working on **Web Development** and **Artificial Intelligence**
 - 🌱 I’m currently **Amateur**
-- 📫 How to reach me: prajwalkb593@gmail.com
+- 📫 How to reach me: **prajwalkb593@gmail.com**
 
 ## 💻 Languages 
 <p align="left">
